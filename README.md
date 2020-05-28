@@ -1,2 +1,2 @@
 # www.mangotiger.co
-My website
+This is mostly just for fun so dont crittice
